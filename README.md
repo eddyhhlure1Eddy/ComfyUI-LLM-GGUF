@@ -1,5 +1,7 @@
 # ComfyUI-LLM-GGUF
 
+model:https://huggingface.co/eddy1111111/qwen3_coder_8b_COT_un/blob/main/Qwen3-8B-Coder-Abliterated-Q4_K_M.gguf
+
 ComfyUI custom nodes for LLM GGUF model inference.
 
 ## Features
@@ -97,3 +99,4 @@ ComfyUI/models/LLM/
 ## Author
 
 eddy
+
